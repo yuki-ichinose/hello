@@ -26,7 +26,6 @@
 ・SNSとの連携
 twitter Facebook Lineとの連携
 ・DMの実装
-test123
-
+test123455555555555
 
 
